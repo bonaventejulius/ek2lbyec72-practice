@@ -1,6 +1,6 @@
 # this is my practice
 
-'''c
+```c
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -35,7 +35,7 @@ float computeCircleArea(float functionRadius){
 	return PI * functionRadius * functionRadius;
 }
 
-'''
+```
 
 
 ![screenshot](https://github.com/bonaventejulius/ek2lbyec72-practice/blob/master/1ST%20MEETING.PNG)
